@@ -1,0 +1,17 @@
+{
+  "name": "50-paskaita-2022.01.31---backend-pradzia",
+  "version": "1.0.0",
+  "description": "node intro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "read": "node fs.js",
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "dayjs": "^1.10.7"
+  }
+}
